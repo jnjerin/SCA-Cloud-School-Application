@@ -13,3 +13,4 @@ username: njeri<br/>
 password: njerij
 
 Jenkins Build Syntax
+Jenkins pipeline syntax used for defining JenkinsFile on your .mdfile on Github. <br/>Source(git) ----Build/package --Deploy.
