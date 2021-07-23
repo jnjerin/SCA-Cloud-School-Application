@@ -1,0 +1,15 @@
+<html>  
+<head>  
+<script type="text/javascript">  
+function msg(){  
+ alert("Hello SCA");  
+}  
+</script>  
+</head>  
+<body>  
+<p>This is my application</p>  
+<form>  
+<input type="button" value="click" onclick="msg()"/>  
+</form>  
+</body>  
+</html>
